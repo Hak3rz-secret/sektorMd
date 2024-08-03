@@ -1,0 +1,59 @@
+{
+    "__JSON__": true,
+    "AUTHOR": "Sasuke",
+    "theme": "Sasuke-Md",
+    "LANGUAGE": "English",
+    "LANGCODE": "en",  
+    "STRINGS": { 
+        "updater": { 
+            "UPDATE": "*Relax!\nYour bot is already on the latest version!*",
+            "NEW_UPDATE": "*A new update is available!*\n\n*Changes:*\n",
+            "UPDATED_LOCAL": "*Sasuke Md has been Successfully Updated!*"
+        },  
+        "global": {      
+            "botName": "Sasuke-Md",
+            "body": "Whatsapp Assistant Bot", 
+            "greet2" : "Regards,,Sasuke Uchiha",
+            "pic1": "https://telegra.ph/file/fd7eae51955895f2aed29.jpg", 
+            "pic2": "https://telegra.ph/file/f7fefbb9c55ef714176a4.jpg", 
+            "pic3": "https://telegra.ph/file/1d93ced0dce5209718cef.png", 
+            "pic4": "https://telegra.ph/file/ed21cc9c8ef3e19526772.jpg", 
+            "pic5": "https://telegra.ph/file/ff0953c235e2c35ceb02c.jpg", 
+            "pic6": "https://telegra.ph/file/cd23dff010b37e8995337.jpg",
+            "greet" : "Ohayo!",
+            "dotbody" : "I have decided to kill a certain *SOMEONE*.",
+            "emojii" : "☯️", 
+            "promote": "Admin Role Has Been Given to Sasuke",
+            "pmallow": "*Yo,This is SasukingTech \n You have been blocked for spamming.\n\n _Powered by SasukingTech_",
+            "pmwarn": "✋Yo* \nPlease don't spam you will be blocked for spamming. _You have ${checkPermit.times} warning(s)._\n\n Join Public Support Group : \nhttps://chat.whatsapp.com/JpfUSxSDriL8jyo3cw1eeP\n\n*Powered by Sasuke-Md*",
+            "permited": "Hey Bro*\n\nNow You are permitted by my owner to pm now.\n\n _Powered by SasukingTech_", 
+            "revoked" : "*Hey Bro*\n\nYour pm permit permission has been revoked as i speak.\n\n _Powered by SasukingTech_",
+            "demote": "Sorry,Admin Role Has Been Taken back",
+            "antlink": "A Link has been Detected.\n*Good Bye Rouge   ninja*",
+            "session": "\n*This is your session.json file,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*Powered by Sasuke-Md*",
+            "mention": " Please mention My Owner",
+            "title": "SASUKE-MD",
+            "footer": "SASUKINGTECH \n www.youtube.com/c/SuperSasuke-ytshinobi2501",
+            "by": "Developed by: SasukingTech",
+            "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
+            "success": "Complete ✔️",
+            "dot": "Yo, Did you mean *-help?*\n just.. don't bother me while I'm avenging my clan",
+            "couple_male": "*I can't live without being helped!*",
+            "couple_female": "*I can't live without being helped!*",
+            "admin": "ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ɪs ᴏɴʟʏ ғᴏʀ ɢʀᴏᴜᴘ ᴀᴅᴍɪɴ🚫!",
+            "botAdmin": "ᴘʟᴇᴀsᴇ ᴘʀᴏᴠɪᴅᴇ ᴍᴇ ᴀᴅᴍɪɴ ʀᴏʟᴇ.❗",
+            "owner": "ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ɪs ᴏɴʟʏ ғᴏʀ ᴍʏ ᴏᴡɴᴇʀ🚫",
+            "group": "ᴛʜɪs ғᴇᴀᴛᴜʀᴇ ɪs ᴏɴʟʏ ғᴏʀ ɢʀᴏᴜᴘ❗",
+            "private": "ᴛʜɪs ғᴇᴀᴛᴜʀᴇ ɪs ᴏɴʟʏ ғᴏʀ ᴍʏ ᴏᴡɴᴇʀ🚫",
+            "bot": "ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ɪs ᴏɴʟʏ ғᴏʀ ᴍʏ ᴏᴡɴᴇʀ🚫",
+            "wait": "ᴘʀᴏᴄᴇssɪɴɢ ʏᴏᴜʀ ʀᴇᴏ̨ᴜᴇsᴛ🔄🔄🔄"
+        },
+        "error": {
+            "text": "*You may regret trying to change my script.\nNow go get this Error fixed.DEVELOPER:+233257789272*"
+        }
+    } 
+  }
+   }
+    } 
+  }
+   
